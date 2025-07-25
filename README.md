@@ -18,4 +18,8 @@ Next, a Logistic Regression model is instantiated and trained on the training da
 The evaluation results include a classification report detailing precision, recall, F1-score, and support for each iris class, helping us understand how well the model discriminates between different flower species. Additionally, an overall accuracy score is printed, which quantifies the percentage of correct predictions. To visualize model performance, a confusion matrix is generated and plotted using seaborn's heatmap function. This matrix offers a granular view of the number of correctly and incorrectly classified samples across the three species, allowing us to identify potential patterns of misclassification.
 In summary, this project presents a straightforward yet effective implementation of a predictive machine learning model using Logistic Regression. The Iris dataset’s well-defined structure makes it an ideal candidate for beginners to explore core machine learning concepts. 
 
+*OUTPUT*:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e8984fd3-1069-4e72-9937-c6f37ec3242f" />
+
 
