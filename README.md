@@ -20,6 +20,6 @@ In summary, this project presents a straightforward yet effective implementation
 
 *OUTPUT*:
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e8984fd3-1069-4e72-9937-c6f37ec3242f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1b141e63-7eb2-4f43-845d-9399cf59930f" />
 
 
